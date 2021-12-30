@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i bogus.json -o bogus-sorted.json"
+    }
+  }
+}
